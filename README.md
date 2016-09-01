@@ -12,7 +12,7 @@ If you want to make any stylistic changes, you're probably looking for `/MollerL
 
 ### Hosting
 If, for some reason, this website is not going to be hosted in this repo in the future, make sure you update the `CNAME` file accordingly.  Currently, the website is hosted here through [GitHub Pages](https://pages.github.com/). 
-Fire up a browser and go to http://MollerLab.github.io
+Fire up a browser and go to https://MollerLab.github.io
 
 The domain, [activefantasysports.com](http://activefantasysports.com), is leased through GoDaddy.  Any changes to DNS records must be made through GoDaddy.  Consult Arlen Moller if you need access to the GoDaddy account..
 
